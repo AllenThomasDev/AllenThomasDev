@@ -1,4 +1,7 @@
+
 ![Blue Quote Technology Google Classroom Header](https://user-images.githubusercontent.com/55048030/87329515-af77a500-c554-11ea-8b39-475f22ec1e1e.gif)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=AllenThomasDev&show_icons=true&theme=dark)
 
 <!--
 **AllenThomasDev/AllenThomasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
