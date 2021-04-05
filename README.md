@@ -4,9 +4,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AllenThomasDev&show_icons=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AllenThomasDev&repo=Football-League-Simulator&theme=dark" />
-</a>
+
 <!--
 **AllenThomasDev/AllenThomasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
