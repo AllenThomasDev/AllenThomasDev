@@ -1,7 +1,7 @@
 
 ![Blue Quote Technology Google Classroom Header](https://user-images.githubusercontent.com/55048030/87329515-af77a500-c554-11ea-8b39-475f22ec1e1e.gif)
 
-![Page Hits](https://visitor-badge.glitch.me/badge?page_id= AllenThomasDev.AllenThomasDev)
+![Page Hits](https://visitor-badge.glitch.me/badge?page_id=AllenThomasDev.AllenThomasDev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AllenThomasDev&show_icons=true&theme=dark" />
