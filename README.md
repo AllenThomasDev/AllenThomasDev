@@ -2,7 +2,7 @@
 ![Blue Quote Technology Google Classroom Header](https://user-images.githubusercontent.com/55048030/87329515-af77a500-c554-11ea-8b39-475f22ec1e1e.gif)
 
 ![Page Hits](https://visitor-badge.glitch.me/badge?page_id=AllenThomasDev.AllenThomasDev)
-<iframe src="https://open.spotify.com/embed/album/3mH6qwIy9crq0I9YQbOuDf?theme=0" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AllenThomasDev&show_icons=true&theme=dark" />
 </a>
